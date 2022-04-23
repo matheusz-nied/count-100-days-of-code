@@ -12,4 +12,4 @@ Um contador simples para ter o controle do seu desafio 100 days of code.
 
 - LocalStorage
 
-
+![Video do Projeto](./video.gif)
