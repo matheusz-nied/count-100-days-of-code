@@ -2,9 +2,9 @@
 Um contador simples para ter o controle do seu desafio 100 days of code.
 
 ### Tecnologias usadas
-- HTML/CSS e Javascript
+- HTML/CSS e Javascript.
 
 ### Aprendizado
-- LocalStorage
+- LocalStorage.
 
 ![Video do Projeto](./video.gif)
