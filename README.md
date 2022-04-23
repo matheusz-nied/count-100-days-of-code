@@ -7,4 +7,4 @@ Um contador simples para ter o controle do seu desafio 100 days of code.
 ### Aprendizado
 - LocalStorage.
 
-![Video do Projeto](./video.gif)
+![Video do Projeto](./new_video.gif)
